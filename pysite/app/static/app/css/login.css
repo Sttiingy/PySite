@@ -1,0 +1,41 @@
+.header {
+    text-align: center;
+}
+
+.login-form {
+    display: flex;
+    width: 40%;
+    height: 80%;
+    margin-left: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    border: 80px black;
+    text-align: center;
+    flex-direction: column;
+}
+
+.input {
+    width: 100%;
+    max-width: 200px;
+    height: 30px;
+    margin: auto;
+    display: block;
+}
+
+.button {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-bottom: 10px;
+    margin-right: auto;
+    display: block;
+    width: fit-content;
+    min-width: 100px;
+}
+
+.label {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-bottom: 10px;
+    margin-right: auto;
+}
